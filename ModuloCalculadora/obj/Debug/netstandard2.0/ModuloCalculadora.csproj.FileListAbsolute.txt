@@ -1,0 +1,9 @@
+C:\Users\valmi\source\repos\ModuloCalculadora\bin\Debug\netstandard2.0\ModuloCalculadora.deps.json
+C:\Users\valmi\source\repos\ModuloCalculadora\bin\Debug\netstandard2.0\ModuloCalculadora.dll
+C:\Users\valmi\source\repos\ModuloCalculadora\bin\Debug\netstandard2.0\ModuloCalculadora.pdb
+C:\Users\valmi\source\repos\ModuloCalculadora\obj\Debug\netstandard2.0\ModuloCalculadora.csprojAssemblyReference.cache
+C:\Users\valmi\source\repos\ModuloCalculadora\obj\Debug\netstandard2.0\ModuloCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\valmi\source\repos\ModuloCalculadora\obj\Debug\netstandard2.0\ModuloCalculadora.AssemblyInfoInputs.cache
+C:\Users\valmi\source\repos\ModuloCalculadora\obj\Debug\netstandard2.0\ModuloCalculadora.AssemblyInfo.cs
+C:\Users\valmi\source\repos\ModuloCalculadora\obj\Debug\netstandard2.0\ModuloCalculadora.dll
+C:\Users\valmi\source\repos\ModuloCalculadora\obj\Debug\netstandard2.0\ModuloCalculadora.pdb
