@@ -8,7 +8,7 @@ namespace LacosInterativos
         {
             //Laços interativos => ESTRUTURAS QUE REPETEM UM BLOCO DE CODIOS DETERMINADAS VEZES
             // Laço for
-            for (int i = -5; i <= 7; i+=3)// ++ significa que sera encrementado de 1 em 1 
+            for (int i = 1; i < 10; i++)// ++ significa que sera encrementado de 1 em 1 
             
             { 
             Console.WriteLine("Valor de i é " + i);
