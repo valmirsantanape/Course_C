@@ -1,0 +1,13 @@
+C:\Users\valmi\source\repos\Course_CSharp\VoceDisseEnterface\VoceDisseEnterface\obj\Debug\netcoreapp3.1\VoceDisseEnterface.csprojAssemblyReference.cache
+C:\Users\valmi\source\repos\Course_CSharp\VoceDisseEnterface\VoceDisseEnterface\obj\Debug\netcoreapp3.1\VoceDisseEnterface.csproj.CoreCompileInputs.cache
+C:\Users\valmi\source\repos\Course_CSharp\VoceDisseEnterface\VoceDisseEnterface\obj\Debug\netcoreapp3.1\VoceDisseEnterface.AssemblyInfoInputs.cache
+C:\Users\valmi\source\repos\Course_CSharp\VoceDisseEnterface\VoceDisseEnterface\obj\Debug\netcoreapp3.1\VoceDisseEnterface.AssemblyInfo.cs
+C:\Users\valmi\source\repos\Course_CSharp\VoceDisseEnterface\VoceDisseEnterface\bin\Debug\netcoreapp3.1\VoceDisseEnterface.exe
+C:\Users\valmi\source\repos\Course_CSharp\VoceDisseEnterface\VoceDisseEnterface\bin\Debug\netcoreapp3.1\VoceDisseEnterface.deps.json
+C:\Users\valmi\source\repos\Course_CSharp\VoceDisseEnterface\VoceDisseEnterface\bin\Debug\netcoreapp3.1\VoceDisseEnterface.runtimeconfig.json
+C:\Users\valmi\source\repos\Course_CSharp\VoceDisseEnterface\VoceDisseEnterface\bin\Debug\netcoreapp3.1\VoceDisseEnterface.runtimeconfig.dev.json
+C:\Users\valmi\source\repos\Course_CSharp\VoceDisseEnterface\VoceDisseEnterface\bin\Debug\netcoreapp3.1\VoceDisseEnterface.dll
+C:\Users\valmi\source\repos\Course_CSharp\VoceDisseEnterface\VoceDisseEnterface\bin\Debug\netcoreapp3.1\VoceDisseEnterface.pdb
+C:\Users\valmi\source\repos\Course_CSharp\VoceDisseEnterface\VoceDisseEnterface\obj\Debug\netcoreapp3.1\VoceDisseEnterface.dll
+C:\Users\valmi\source\repos\Course_CSharp\VoceDisseEnterface\VoceDisseEnterface\obj\Debug\netcoreapp3.1\VoceDisseEnterface.pdb
+C:\Users\valmi\source\repos\Course_CSharp\VoceDisseEnterface\VoceDisseEnterface\obj\Debug\netcoreapp3.1\VoceDisseEnterface.genruntimeconfig.cache

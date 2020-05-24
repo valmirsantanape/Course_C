@@ -1,0 +1,13 @@
+C:\Users\valmi\source\repos\OlaMundoDasClassesI\OlaMundoDasClassesI\bin\Debug\netcoreapp3.1\OlaMundoDasClassesI.exe
+C:\Users\valmi\source\repos\OlaMundoDasClassesI\OlaMundoDasClassesI\bin\Debug\netcoreapp3.1\OlaMundoDasClassesI.deps.json
+C:\Users\valmi\source\repos\OlaMundoDasClassesI\OlaMundoDasClassesI\bin\Debug\netcoreapp3.1\OlaMundoDasClassesI.runtimeconfig.json
+C:\Users\valmi\source\repos\OlaMundoDasClassesI\OlaMundoDasClassesI\bin\Debug\netcoreapp3.1\OlaMundoDasClassesI.runtimeconfig.dev.json
+C:\Users\valmi\source\repos\OlaMundoDasClassesI\OlaMundoDasClassesI\bin\Debug\netcoreapp3.1\OlaMundoDasClassesI.dll
+C:\Users\valmi\source\repos\OlaMundoDasClassesI\OlaMundoDasClassesI\bin\Debug\netcoreapp3.1\OlaMundoDasClassesI.pdb
+C:\Users\valmi\source\repos\OlaMundoDasClassesI\OlaMundoDasClassesI\obj\Debug\netcoreapp3.1\OlaMundoDasClassesI.csprojAssemblyReference.cache
+C:\Users\valmi\source\repos\OlaMundoDasClassesI\OlaMundoDasClassesI\obj\Debug\netcoreapp3.1\OlaMundoDasClassesI.csproj.CoreCompileInputs.cache
+C:\Users\valmi\source\repos\OlaMundoDasClassesI\OlaMundoDasClassesI\obj\Debug\netcoreapp3.1\OlaMundoDasClassesI.AssemblyInfoInputs.cache
+C:\Users\valmi\source\repos\OlaMundoDasClassesI\OlaMundoDasClassesI\obj\Debug\netcoreapp3.1\OlaMundoDasClassesI.AssemblyInfo.cs
+C:\Users\valmi\source\repos\OlaMundoDasClassesI\OlaMundoDasClassesI\obj\Debug\netcoreapp3.1\OlaMundoDasClassesI.dll
+C:\Users\valmi\source\repos\OlaMundoDasClassesI\OlaMundoDasClassesI\obj\Debug\netcoreapp3.1\OlaMundoDasClassesI.pdb
+C:\Users\valmi\source\repos\OlaMundoDasClassesI\OlaMundoDasClassesI\obj\Debug\netcoreapp3.1\OlaMundoDasClassesI.genruntimeconfig.cache

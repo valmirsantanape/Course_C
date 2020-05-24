@@ -1,0 +1,13 @@
+C:\Users\valmi\source\repos\Course_CSharp\Multifuncional\obj\Debug\netcoreapp3.1\CodigoExercicio.csprojAssemblyReference.cache
+C:\Users\valmi\source\repos\Course_CSharp\Multifuncional\obj\Debug\netcoreapp3.1\CodigoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\valmi\source\repos\Course_CSharp\Multifuncional\obj\Debug\netcoreapp3.1\CodigoExercicio.AssemblyInfoInputs.cache
+C:\Users\valmi\source\repos\Course_CSharp\Multifuncional\obj\Debug\netcoreapp3.1\CodigoExercicio.AssemblyInfo.cs
+C:\Users\valmi\source\repos\Course_CSharp\Multifuncional\bin\Debug\netcoreapp3.1\CodigoExercicio.exe
+C:\Users\valmi\source\repos\Course_CSharp\Multifuncional\bin\Debug\netcoreapp3.1\CodigoExercicio.deps.json
+C:\Users\valmi\source\repos\Course_CSharp\Multifuncional\bin\Debug\netcoreapp3.1\CodigoExercicio.runtimeconfig.json
+C:\Users\valmi\source\repos\Course_CSharp\Multifuncional\bin\Debug\netcoreapp3.1\CodigoExercicio.runtimeconfig.dev.json
+C:\Users\valmi\source\repos\Course_CSharp\Multifuncional\bin\Debug\netcoreapp3.1\CodigoExercicio.dll
+C:\Users\valmi\source\repos\Course_CSharp\Multifuncional\bin\Debug\netcoreapp3.1\CodigoExercicio.pdb
+C:\Users\valmi\source\repos\Course_CSharp\Multifuncional\obj\Debug\netcoreapp3.1\CodigoExercicio.dll
+C:\Users\valmi\source\repos\Course_CSharp\Multifuncional\obj\Debug\netcoreapp3.1\CodigoExercicio.pdb
+C:\Users\valmi\source\repos\Course_CSharp\Multifuncional\obj\Debug\netcoreapp3.1\CodigoExercicio.genruntimeconfig.cache

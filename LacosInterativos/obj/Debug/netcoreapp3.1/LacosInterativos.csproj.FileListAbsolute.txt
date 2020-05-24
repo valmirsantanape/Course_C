@@ -1,0 +1,13 @@
+C:\Users\valmi\source\repos\IntroducaoAoCSharpUmaAbordagemPratica\LacosInterativos\obj\Debug\netcoreapp3.1\LacosInterativos.csprojAssemblyReference.cache
+C:\Users\valmi\source\repos\IntroducaoAoCSharpUmaAbordagemPratica\LacosInterativos\obj\Debug\netcoreapp3.1\LacosInterativos.csproj.CoreCompileInputs.cache
+C:\Users\valmi\source\repos\IntroducaoAoCSharpUmaAbordagemPratica\LacosInterativos\obj\Debug\netcoreapp3.1\LacosInterativos.AssemblyInfoInputs.cache
+C:\Users\valmi\source\repos\IntroducaoAoCSharpUmaAbordagemPratica\LacosInterativos\obj\Debug\netcoreapp3.1\LacosInterativos.AssemblyInfo.cs
+C:\Users\valmi\source\repos\IntroducaoAoCSharpUmaAbordagemPratica\LacosInterativos\bin\Debug\netcoreapp3.1\LacosInterativos.exe
+C:\Users\valmi\source\repos\IntroducaoAoCSharpUmaAbordagemPratica\LacosInterativos\bin\Debug\netcoreapp3.1\LacosInterativos.deps.json
+C:\Users\valmi\source\repos\IntroducaoAoCSharpUmaAbordagemPratica\LacosInterativos\bin\Debug\netcoreapp3.1\LacosInterativos.runtimeconfig.json
+C:\Users\valmi\source\repos\IntroducaoAoCSharpUmaAbordagemPratica\LacosInterativos\bin\Debug\netcoreapp3.1\LacosInterativos.runtimeconfig.dev.json
+C:\Users\valmi\source\repos\IntroducaoAoCSharpUmaAbordagemPratica\LacosInterativos\bin\Debug\netcoreapp3.1\LacosInterativos.dll
+C:\Users\valmi\source\repos\IntroducaoAoCSharpUmaAbordagemPratica\LacosInterativos\bin\Debug\netcoreapp3.1\LacosInterativos.pdb
+C:\Users\valmi\source\repos\IntroducaoAoCSharpUmaAbordagemPratica\LacosInterativos\obj\Debug\netcoreapp3.1\LacosInterativos.dll
+C:\Users\valmi\source\repos\IntroducaoAoCSharpUmaAbordagemPratica\LacosInterativos\obj\Debug\netcoreapp3.1\LacosInterativos.pdb
+C:\Users\valmi\source\repos\IntroducaoAoCSharpUmaAbordagemPratica\LacosInterativos\obj\Debug\netcoreapp3.1\LacosInterativos.genruntimeconfig.cache

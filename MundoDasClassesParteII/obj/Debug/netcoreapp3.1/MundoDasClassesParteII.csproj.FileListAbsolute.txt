@@ -1,0 +1,13 @@
+C:\Users\valmi\source\repos\MundoDasClassesParteII\bin\Debug\netcoreapp3.1\MundoDasClassesParteII.exe
+C:\Users\valmi\source\repos\MundoDasClassesParteII\bin\Debug\netcoreapp3.1\MundoDasClassesParteII.deps.json
+C:\Users\valmi\source\repos\MundoDasClassesParteII\bin\Debug\netcoreapp3.1\MundoDasClassesParteII.runtimeconfig.json
+C:\Users\valmi\source\repos\MundoDasClassesParteII\bin\Debug\netcoreapp3.1\MundoDasClassesParteII.runtimeconfig.dev.json
+C:\Users\valmi\source\repos\MundoDasClassesParteII\bin\Debug\netcoreapp3.1\MundoDasClassesParteII.dll
+C:\Users\valmi\source\repos\MundoDasClassesParteII\bin\Debug\netcoreapp3.1\MundoDasClassesParteII.pdb
+C:\Users\valmi\source\repos\MundoDasClassesParteII\obj\Debug\netcoreapp3.1\MundoDasClassesParteII.csprojAssemblyReference.cache
+C:\Users\valmi\source\repos\MundoDasClassesParteII\obj\Debug\netcoreapp3.1\MundoDasClassesParteII.csproj.CoreCompileInputs.cache
+C:\Users\valmi\source\repos\MundoDasClassesParteII\obj\Debug\netcoreapp3.1\MundoDasClassesParteII.AssemblyInfoInputs.cache
+C:\Users\valmi\source\repos\MundoDasClassesParteII\obj\Debug\netcoreapp3.1\MundoDasClassesParteII.AssemblyInfo.cs
+C:\Users\valmi\source\repos\MundoDasClassesParteII\obj\Debug\netcoreapp3.1\MundoDasClassesParteII.dll
+C:\Users\valmi\source\repos\MundoDasClassesParteII\obj\Debug\netcoreapp3.1\MundoDasClassesParteII.pdb
+C:\Users\valmi\source\repos\MundoDasClassesParteII\obj\Debug\netcoreapp3.1\MundoDasClassesParteII.genruntimeconfig.cache

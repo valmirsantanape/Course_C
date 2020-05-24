@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\valmi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\valmi\\.nuget\\packages"
+    ]
+  }
+}
