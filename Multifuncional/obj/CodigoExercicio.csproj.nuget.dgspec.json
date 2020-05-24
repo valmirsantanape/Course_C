@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valmi\\source\\repos\\Course_CSharp\\Multifuncional\\CodigoExercicio.csproj": {}
+    "C:\\Users\\valmi\\source\\repos\\Curso-de-introdu--o-ao-C-\\Multifuncional\\CodigoExercicio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valmi\\source\\repos\\Course_CSharp\\Multifuncional\\CodigoExercicio.csproj": {
+    "C:\\Users\\valmi\\source\\repos\\Curso-de-introdu--o-ao-C-\\Multifuncional\\CodigoExercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valmi\\source\\repos\\Course_CSharp\\Multifuncional\\CodigoExercicio.csproj",
+        "projectUniqueName": "C:\\Users\\valmi\\source\\repos\\Curso-de-introdu--o-ao-C-\\Multifuncional\\CodigoExercicio.csproj",
         "projectName": "CodigoExercicio",
-        "projectPath": "C:\\Users\\valmi\\source\\repos\\Course_CSharp\\Multifuncional\\CodigoExercicio.csproj",
+        "projectPath": "C:\\Users\\valmi\\source\\repos\\Curso-de-introdu--o-ao-C-\\Multifuncional\\CodigoExercicio.csproj",
         "packagesPath": "C:\\Users\\valmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valmi\\source\\repos\\Course_CSharp\\Multifuncional\\obj\\",
+        "outputPath": "C:\\Users\\valmi\\source\\repos\\Curso-de-introdu--o-ao-C-\\Multifuncional\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\valmi\\AppData\\Roaming\\NuGet\\NuGet.Config",

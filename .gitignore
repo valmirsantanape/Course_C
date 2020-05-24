@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+.vscode/launch.json
+.vscode/tasks.json
+Multifuncional/obj/CodigoExercicio.csproj.nuget.dgspec.json
+Multifuncional/obj/CodigoExercicio.csproj.nuget.dgspec.json
+Multifuncional/obj/CodigoExercicio.csproj.nuget.dgspec.json
+Multifuncional/obj/Debug/netcoreapp3.1/CodigoExercicio.assets.cache
+Multifuncional/obj/Debug/netcoreapp3.1/CodigoExercicio.csproj.FileListAbsolute.txt
+Multifuncional/obj/Debug/netcoreapp3.1/CodigoExercicio.csprojAssemblyReference.cache
+Multifuncional/obj/project.assets.json
+Multifuncional/obj/project.nuget.cache
