@@ -19,6 +19,13 @@ namespace SiglePage
 
         private void button1_Click(object sender, EventArgs e)
         {
+            var ColorDialog = new ColorDialog();
+            var corEscolhida = ColorDialog.ShowDialog();
+            if(corEscolhida == DialogResult.OK)
+            {
+                btnCor.BackColor = ColorDialog.Color;
+            }
+
 
         }
 
