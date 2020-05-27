@@ -1,0 +1,10 @@
+C:\Users\valmi\source\repos\Curso-de-introdu--o-ao-C-\SiglePage\bin\Debug\SiglePage.exe.config
+C:\Users\valmi\source\repos\Curso-de-introdu--o-ao-C-\SiglePage\bin\Debug\SiglePage.exe
+C:\Users\valmi\source\repos\Curso-de-introdu--o-ao-C-\SiglePage\bin\Debug\SiglePage.pdb
+C:\Users\valmi\source\repos\Curso-de-introdu--o-ao-C-\SiglePage\obj\Debug\SiglePage.csprojAssemblyReference.cache
+C:\Users\valmi\source\repos\Curso-de-introdu--o-ao-C-\SiglePage\obj\Debug\SiglePage.Properties.Resources.resources
+C:\Users\valmi\source\repos\Curso-de-introdu--o-ao-C-\SiglePage\obj\Debug\SiglePage.csproj.GenerateResource.cache
+C:\Users\valmi\source\repos\Curso-de-introdu--o-ao-C-\SiglePage\obj\Debug\SiglePage.csproj.CoreCompileInputs.cache
+C:\Users\valmi\source\repos\Curso-de-introdu--o-ao-C-\SiglePage\obj\Debug\SiglePage.exe
+C:\Users\valmi\source\repos\Curso-de-introdu--o-ao-C-\SiglePage\obj\Debug\SiglePage.pdb
+C:\Users\valmi\source\repos\Curso-de-introdu--o-ao-C-\SiglePage\obj\Debug\SiglePage.FormPricipal.resources
