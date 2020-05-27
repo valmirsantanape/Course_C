@@ -12,6 +12,10 @@ namespace SiglePage
 {
     public partial class FormPricipal : Form
     {
+        private bool flagPintar = false;
+        private Graphics graphcspainel1;
+        private float espessuraCeneta;
+
         public FormPricipal()
         {
             InitializeComponent();
@@ -19,9 +23,12 @@ namespace SiglePage
             {
                 cbEspessuraCaneta.Items.Add(i);
             }
-            cbEspessuraCaneta.Text = "2";
-            cbEspessuraCaneta.MaxDropDownItems = 5;
-            cbEspessuraCaneta.IntegralHeight = false;
+            cbEspessuraCaneta.Text = "2";//Texto que aparecerá inicialmente 
+            cbEspessuraCaneta.MaxDropDownItems = 5;//Total de itens que serão mostrados
+            cbEspessuraCaneta.IntegralHeight = false; // IntegralHeight = false para ser possivel manipular total de itens que serao mostrados
+
+            graphcspainel1 = panel1.CreateGraphics();
+            espessuraCeneta = float.Parse(cbEspessuraCaneta.Text);//Converrte o texto para 
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -45,6 +52,24 @@ namespace SiglePage
         private void button3_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void panel1_MouseDown(object sender, MouseEventArgs e)
+        {
+            flagPintar = true;
+        }
+
+        private void panel1_MouseMove(object sender, MouseEventArgs e)
+        {
+            if(flagPintar)
+            {
+                graphcspainel1.DrawEllipse(new Pen(btnCor.BackColor, espessuraCeneta), new RectangleF(e.X, e.Y, espessuraCeneta, espessuraCeneta));
+            }
+        }
+
+        private void panel1_MouseUp(object sender, MouseEventArgs e)
+        {
+            flagPintar = false;
         }
     }
 }
