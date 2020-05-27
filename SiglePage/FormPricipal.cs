@@ -15,6 +15,13 @@ namespace SiglePage
         public FormPricipal()
         {
             InitializeComponent();
+            for(int i=1; i <= 10; i ++)
+            {
+                cbEspessuraCaneta.Items.Add(i);
+            }
+            cbEspessuraCaneta.Text = "2";
+            cbEspessuraCaneta.MaxDropDownItems = 5;
+            cbEspessuraCaneta.IntegralHeight = false;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -24,6 +31,7 @@ namespace SiglePage
             if(corEscolhida == DialogResult.OK)
             {
                 btnCor.BackColor = ColorDialog.Color;
+                
             }
 
 
